@@ -201,12 +201,6 @@
 		
 		product_list += new/datum/data/vending_product("/obj/critter/moonspy", rand(5, 6), hidden=1)
   
-
-
-
-
-
-
 /obj/machinery/vending/medical
 	name = "NanoMed Plus"
 	desc = "Medical drug dispenser."
