@@ -179,6 +179,34 @@
 		product_list += new/datum/data/vending_product("/obj/item/device/igniter", rand(1, 6), hidden=1)
 		//product_list += new/datum/data/vending_product("/obj/item/cigpacket/random", rand(0, 1), hidden=1, cost=45) // A mass-produceable source of every reagent in the game is just a bad idea (compare with snack machine & beans).
 
+
+/obj/machinery/vending/marcus
+	name = "Marcus Quality Robots"
+	desc = "Whoever designed this machine is a true nutcase."
+	pay = 1
+	vend_delay = 6
+	icon_state = "generic"
+	icon_panel = "generic-panel"
+	slogan_list = list("Quality robots for all of your needs!",
+	"Brought to you by the same person who got banned from the Ideas & Suggestions thread!",
+	"Please buy my items!",
+	"Please!")
+      
+	create_products()
+		..()
+		product_list += new/datum/data/vending_product("/obj/machinery/bot/duckbot", 45, cost=8)
+		product_list += new/datum/data/vending_product("/obj/machinery/bot/medbot",  50, cost=20)
+		product_list += new/datum/data/vending_product("/obj/machinery/bot/secbot",  50, cost=40)
+		product_list += new/datum/data/vending_product("/obj/machinery/bot/guardbot", 70, cost=100)
+		
+		product_list += new/datum/data/vending_product("/obj/critter/moonspy", rand(5, 6), hidden=1)
+  
+
+
+
+
+
+
 /obj/machinery/vending/medical
 	name = "NanoMed Plus"
 	desc = "Medical drug dispenser."
