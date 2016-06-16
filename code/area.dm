@@ -1150,6 +1150,11 @@
 				Obj << mysound
 		return
 
+/area/marsstart
+    name = "Mars Outpost 12"
+    icon_state = "yellow"
+    do_not_irradiate = 1
+
 /area/martian_trader
 	name ="Martian Trade Outpost"
 	sound_environment = 8
