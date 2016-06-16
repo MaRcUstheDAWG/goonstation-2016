@@ -1,0 +1,297 @@
+"aa" = (/turf/space,/area)
+"ab" = (/turf/unsimulated/wall{icon = 'icons/obj/singularity.dmi'; icon_state = "TheSingMain"; name = "v-space"},/area/area_that_kills_you_if_you_enter_it)
+"ac" = (/turf/unsimulated/wall/setpieces/martian,/area)
+"ad" = (/turf/unsimulated/wall/setpieces/martian{icon_state = "mars-s"},/area)
+"ae" = (/turf/unsimulated/wall/setpieces/martian{icon_state = "mars-c"; dir = 9},/area)
+"af" = (/turf/unsimulated/wall/setpieces/martian{icon_state = "mars-s"; dir = 4},/area)
+"ag" = (/turf/unsimulated/floor/setpieces/martian,/area)
+"ah" = (/turf/unsimulated/floor/setpieces/martian/highway{desc = "Some old, barren highway."; name = "martian highway"},/area)
+"ai" = (/turf/unsimulated/floor/setpieces/martian/highway{desc = "Some old, barren highway."; dir = 4; icon_state = "marshighw1"; name = "martian highway"; tag = "icon-marshighw1 (EAST)"},/area)
+"aj" = (/turf/unsimulated/wall/setpieces/martian{icon_state = "mars-c"; dir = 6},/area)
+"ak" = (/turf/unsimulated/wall/setpieces/martian{icon_state = "mars-c"; dir = 1},/area)
+"al" = (/turf/unsimulated/wall/setpieces/martian{icon_state = "mars-c"; dir = 8},/area)
+"am" = (/obj/decal/cleanable/dirt/mars,/turf/simulated/floor{tag = "icon-plating_dusty2"; icon_state = "plating_dusty2"},/area)
+"an" = (/turf/unsimulated/wall/setpieces/martian{icon_state = "mars-s"; dir = 8},/area)
+"ao" = (/obj/machinery/light/beacon,/turf/unsimulated/floor/setpieces/martian,/area)
+"ap" = (/turf/simulated/floor{tag = "icon-plating_dusty2"; icon_state = "plating_dusty2"},/area)
+"aq" = (/obj/decal/cleanable/machine_debris{icon_state = "gib7"},/turf/unsimulated/floor/setpieces/martian,/area)
+"ar" = (/obj/decal/cleanable/dirt/mars,/turf/unsimulated/floor/setpieces/martian,/area)
+"as" = (/obj/decal/cleanable/dirt/mars,/turf/simulated/floor{tag = "icon-plating_dusty1"; icon_state = "plating_dusty1"},/area)
+"at" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 2},/obj/decal/cleanable/dirt/mars,/turf/unsimulated/floor/setpieces/martian,/area)
+"au" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 2},/turf/unsimulated/floor/setpieces/martian,/area)
+"av" = (/turf/simulated/floor{tag = "icon-plating_dusty3"; icon_state = "plating_dusty3"},/area)
+"aw" = (/turf/unsimulated/wall{icon_state = "mars-reinf"},/area/marsstart)
+"ax" = (/turf/unsimulated/wall{tag = "icon-mars-reg"; icon_state = "mars-reg"},/area/marsstart)
+"ay" = (/obj/machinery/light/small,/turf/unsimulated/floor/setpieces/martian,/area)
+"az" = (/turf/simulated/floor{tag = "icon-fullred (SOUTHWEST)"; icon_state = "fullred"; dir = 10},/area)
+"aA" = (/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "It's probably a machine that links those teleporters to the station. It could just be a fancy oven, though."; icon = 'icons/obj/networked.dmi'; icon_state = "pathmanip-p"; name = "strange machine"},/turf/simulated/floor{tag = "icon-floorgrime-b (SOUTHWEST)"; icon_state = "floorgrime-b"; dir = 10},/area/marsstart)
+"aB" = (/turf/simulated/floor{tag = "icon-floorgrime-b (SOUTHWEST)"; icon_state = "floorgrime-b"; dir = 10},/area/marsstart)
+"aC" = (/obj/machinery/light{tag = "icon-tube1 (NORTH)"; icon_state = "tube1"; dir = 1},/turf/simulated/floor{tag = "icon-floorgrime-b (SOUTHWEST)"; icon_state = "floorgrime-b"; dir = 10},/area/marsstart)
+"aD" = (/obj/overlay{anchored = 1; density = 1; desc = "A networked tape drive.  It looks to be in fairly poor condition.  I bet the vacuum columns don't work worth a damn."; icon = 'icons/obj/networked.dmi'; icon_state = "tapedrive0"; name = "broken databank"},/turf/simulated/floor{tag = "icon-floorgrime-b (SOUTHWEST)"; icon_state = "floorgrime-b"; dir = 10},/area/marsstart)
+"aE" = (/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "A computer mainframe. It might as well be turned off or something."; icon = 'icons/obj/networked.dmi'; icon_state = "dwaine0"; name = "mainframe"},/turf/simulated/floor{tag = "icon-floorgrime-b (SOUTHWEST)"; icon_state = "floorgrime-b"; dir = 10},/area/marsstart)
+"aF" = (/turf/unsimulated/wall{tag = "icon-bdoormid1 (EAST)"; name = "blast door"; desc = "It's sealed shut."; icon = 'icons/obj/doors/blastdoor.dmi'; icon_state = "bdoormid1"; dir = 4},/area/marsstart)
+"aG" = (/obj/decal/cleanable/dirt/mars,/turf/simulated/floor{tag = "icon-panelscorched"; icon_state = "panelscorched"},/area)
+"aH" = (/obj/machinery/vending/marcus,/turf/simulated/floor{tag = "icon-plating"; icon_state = "plating"},/area)
+"aI" = (/turf/unsimulated/wall{icon_state = "mars-reinf"},/area)
+"aJ" = (/turf/simulated/floor{tag = "icon-floorgrime-b (SOUTHWEST)"; icon_state = "floorgrime-b"; dir = 10},/area)
+"aK" = (/obj/arrivals_pad,/turf/simulated/floor{tag = "icon-floorgrime-w"; icon_state = "floorgrime-w"},/area/marsstart)
+"aL" = (/turf/simulated/floor{tag = "icon-floorgrime-w"; icon_state = "floorgrime-w"},/area/marsstart)
+"aM" = (/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"aN" = (/obj/machinery/light{tag = "icon-tube1 (NORTH)"; icon_state = "tube1"; dir = 1},/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"aO" = (/obj/machinery/vending/fortune,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"aP" = (/obj/machinery/vending/cola/blue,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"aQ" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 6},/turf/unsimulated/floor/setpieces/martian,/area)
+"aR" = (/turf/simulated/floor{tag = "icon-plating_dusty1"; icon_state = "plating_dusty1"},/area)
+"aS" = (/obj/decal/cleanable/dirt/mars,/turf/simulated/floor{tag = "icon-floorgrime-b (SOUTHWEST)"; icon_state = "floorgrime-b"; dir = 10},/area)
+"aT" = (/obj/lattice{icon_state = "lattice-dir"; dir = 4},/turf/unsimulated/floor/setpieces/martian,/area)
+"aU" = (/obj/lattice{icon_state = "lattice-dir"; dir = 4},/obj/decal/cleanable/dirt/mars,/turf/unsimulated/floor/setpieces/martian,/area)
+"aV" = (/obj/landmark/start,/obj/decal/cleanable/dirt/mars,/turf/simulated/floor{tag = "icon-panelscorched"; icon_state = "panelscorched"},/area/marsstart)
+"aW" = (/obj/landmark/start,/turf/simulated/floor{tag = "icon-plating_dusty1"; icon_state = "plating_dusty1"},/area/marsstart)
+"aX" = (/obj/landmark/start,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"aY" = (/obj/landmark/start,/turf/simulated/floor{tag = "icon-panelscorched"; icon_state = "panelscorched"},/area/marsstart)
+"aZ" = (/obj/lattice{dir = 1; icon_state = "lattice-dir-b"},/obj/decal/cleanable/dirt/mars,/turf/unsimulated/floor/setpieces/martian,/area)
+"ba" = (/obj/vehicle/marsrover{desc = "A rover designed to let researchers explore hazardous planets safely and efficiently. It looks recently manufactured. Weird."},/turf/simulated/floor{tag = "icon-floorgrime-w"; icon_state = "floorgrime-w"},/area/marsstart)
+"bb" = (/obj/landmark/start,/turf/simulated/floor{tag = "icon-plating"; icon_state = "plating"},/area/marsstart)
+"bc" = (/obj/landmark/start,/turf/simulated/floor{tag = "icon-plating_dusty2"; icon_state = "plating_dusty2"},/area/marsstart)
+"bd" = (/obj/lattice{icon_state = "lattice-dir"; dir = 1},/obj/decal/cleanable/dirt/mars,/turf/unsimulated/floor/setpieces/martian,/area)
+"be" = (/turf/simulated/floor{tag = "icon-plating"; icon_state = "plating"},/area)
+"bf" = (/obj/decal/cleanable/dirt/mars,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area)
+"bg" = (/obj/decal/cleanable/machine_debris{icon_state = "gib7"},/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area)
+"bh" = (/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area)
+"bi" = (/obj/decal/cleanable/oil,/turf/simulated/floor{tag = "icon-fullred (SOUTHWEST)"; icon_state = "fullred"; dir = 10},/area)
+"bj" = (/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "A large rack of server modules.  It appears to be in a low-power idle state."; icon = 'icons/obj/networked.dmi'; icon_state = "server0"; name = "idle server"},/turf/simulated/floor{tag = "icon-floorgrime-b (SOUTHWEST)"; icon_state = "floorgrime-b"; dir = 10},/area/marsstart)
+"bk" = (/turf/simulated/floor{tag = "icon-panelscorched"; icon_state = "panelscorched"},/area/marsstart)
+"bl" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 1},/turf/unsimulated/floor/setpieces/martian,/area)
+"bm" = (/obj/machinery/light,/turf/simulated/floor{tag = "icon-floorgrime-b (SOUTHWEST)"; icon_state = "floorgrime-b"; dir = 10},/area/marsstart)
+"bn" = (/obj/machinery/door/airlock/classic,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"bo" = (/obj/grille/steel,/turf/unsimulated/floor/setpieces/martian,/area/marsstart)
+"bp" = (/obj/decal/cleanable/dirt/mars,/turf/simulated/floor{tag = "icon-fullred (SOUTHWEST)"; icon_state = "fullred"; dir = 10},/area)
+"bq" = (/obj/decal/fakeobjects/mars_billboard,/turf/unsimulated/floor/setpieces/martian,/area)
+"br" = (/obj/machinery/door/airlock/classic,/turf/simulated/floor{tag = "icon-floorgrime-w"; icon_state = "floorgrime-w"},/area/marsstart)
+"bs" = (/obj/machinery/vending/snack,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"bt" = (/obj/machinery/vending/pizza,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"bu" = (/obj/machinery/vending/cigarette,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"bv" = (/obj/decal/cleanable/dirt,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"bw" = (/obj/lattice{icon_state = "lattice-dir"; dir = 4},/obj/machinery/light/small{tag = "icon-bulb1 (WEST)"; icon_state = "bulb1"; dir = 8},/turf/unsimulated/floor/setpieces/martian,/area)
+"bx" = (/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "An old martian rover. Like, really old, probably older then you, even."; dir = 8; icon = 'icons/misc/lunar.dmi'; icon_state = "moonprobe"; layer = 3; name = "mars rover"},/turf/unsimulated/floor/setpieces/martian,/area)
+"by" = (/obj/decal/cleanable/dirt/mars,/obj/decal/cleanable/oil,/turf/simulated/floor{tag = "icon-plating_dusty1"; icon_state = "plating_dusty1"},/area)
+"bz" = (/obj/decal/cleanable/machine_debris,/turf/simulated/floor{tag = "icon-plating_dusty1"; icon_state = "plating_dusty1"},/area)
+"bA" = (/obj/machinery/light/small{dir = 4},/turf/unsimulated/floor/setpieces/martian,/area)
+"bB" = (/obj/machinery/vending/cola/red,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"bC" = (/obj/decal/glow{tag = "icon-sign_arrow (NORTH)"; name = "arrow sign"; desc = "A monochrome plasma display.  No, not the kind of plasma that burns, the other kind."; icon = 'icons/misc/lunar.dmi'; icon_state = "sign_arrow"; dir = 1; pixel_y = 30; anchored = 1; brightness = 2; color_r = 0; color_g = 0.8; color_b = 1},/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"bD" = (/obj/decal/glow{anchored = 1; brightness = 2; desc = "A monochrome plasma display.  No, not the kind of plasma that burns, the other kind."; dir = 8; icon = 'icons/misc/lunar.dmi'; icon_state = "sign_arrow"; name = "arrow sign"; pixel_y = 30; color_b = 1; color_g = 0.8; color_r = 0},/turf/unsimulated/wall{icon_state = "mars-reinf"},/area/marsstart)
+"bE" = (/obj/machinery/sleeper{desc = "It's pretty old, like, too old to even work right? I dunno."; name = "old sleeper"},/turf/simulated/floor{tag = "icon-floorgrime-w"; icon_state = "floorgrime-w"},/area/marsstart)
+"bF" = (/obj/decal/fakeobjects/robot{tag = "icon-mars_bot (WEST)"; desc = "It looks like it hasn't been in service for decades."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_bot"; dir = 8; density = 1; anchored = 1},/turf/simulated/floor{tag = "icon-greenchecker (NORTH)"; icon_state = "greenchecker"; dir = 1},/area/marsstart)
+"bG" = (/obj/decal/fakeobjects{name = "window"; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; dir = 8; density = 1; layer = 8; anchored = 1},/obj/decal/fakeobjects{name = "window"; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; dir = 4; density = 1; layer = 8; anchored = 1},/obj/decal/fakeobjects{name = "window"; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; dir = 1; density = 1; layer = 8; anchored = 1},/obj/grille/steel,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"bH" = (/obj/decal/fakeobjects/robot{anchored = 1; desc = "Most of it's electronics appear to be destroyed."; icon = 'icons/misc/critter.dmi'; icon_state = "mars_bot-dead"; name = "Smashed Robot"},/turf/simulated/floor{tag = "icon-plating_dusty2"; icon_state = "plating_dusty2"},/area)
+"bI" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 10},/turf/unsimulated/floor/setpieces/martian,/area)
+"bJ" = (/turf/simulated/floor{tag = "icon-floorgrime_gw2"; icon_state = "floorgrime_gw2"},/area/marsstart)
+"bK" = (/obj/table/auto,/turf/simulated/floor{tag = "icon-floorgrime_gw2"; icon_state = "floorgrime_gw2"},/area/marsstart)
+"bL" = (/obj/machinery/deep_fryer,/turf/simulated/floor{tag = "icon-floorgrime_gw2"; icon_state = "floorgrime_gw2"},/area/marsstart)
+"bM" = (/obj/machinery/gibber,/turf/simulated/floor{tag = "icon-floorgrime_gw2"; icon_state = "floorgrime_gw2"},/area/marsstart)
+"bN" = (/turf/simulated/floor{tag = "icon-plating_dusty2"; icon_state = "plating_dusty2"},/area/marsstart)
+"bO" = (/obj/machinery/light{tag = "icon-tube1 (EAST)"; icon_state = "tube1"; dir = 4},/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"bP" = (/obj/machinery/light{tag = "icon-tube1 (EAST)"; icon_state = "tube1"; dir = 4},/turf/simulated/floor{tag = "icon-greenchecker (NORTH)"; icon_state = "greenchecker"; dir = 1},/area/marsstart)
+"bQ" = (/obj/decal/fakeobjects{name = "window"; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; dir = 8; density = 1; layer = 8; anchored = 1},/obj/decal/fakeobjects{name = "window"; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; dir = 4; density = 1; layer = 8; anchored = 1},/obj/grille/steel,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"bR" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 9},/obj/decal/cleanable/dirt/mars,/turf/unsimulated/floor/setpieces/martian,/area)
+"bS" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 5},/turf/unsimulated/floor/setpieces/martian,/area)
+"bT" = (/turf/simulated/floor{tag = "icon-orange (EAST)"; icon_state = "orange"; dir = 4},/area/marsstart)
+"bU" = (/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "Some kind of medical machine. It could just be a fancy coffeee maker or something, however."; icon = 'icons/obj/machines/nuclear.dmi'; icon_state = "neutinj"; name = "old machine"},/turf/simulated/floor{tag = "icon-greenchecker (NORTH)"; icon_state = "greenchecker"; dir = 1},/area/marsstart)
+"bV" = (/obj/machinery/recharge_station{desc = "A docking station that's practically vintage by today's standards. It seems to be covered in dust, how old!"; name = "Old Docking Station"},/turf/simulated/floor{tag = "icon-greenchecker (NORTH)"; icon_state = "greenchecker"; dir = 1},/area/marsstart)
+"bW" = (/obj/stool/bench/auto,/turf/simulated/floor{tag = "icon-floorgrime_gw2"; icon_state = "floorgrime_gw2"},/area/marsstart)
+"bX" = (/obj/decal/cleanable/dirt,/turf/simulated/floor{tag = "icon-floorgrime-w"; icon_state = "floorgrime-w"},/area/marsstart)
+"bY" = (/obj/machinery/vending/pathology/old,/turf/simulated/floor{tag = "icon-greenchecker (NORTH)"; icon_state = "greenchecker"; dir = 1},/area/marsstart)
+"bZ" = (/turf/unsimulated/wall/setpieces/martian{icon_state = "mars-s"; dir = 1},/area)
+"ca" = (/obj/table/auto,/obj/machinery/glass_recycler,/turf/simulated/floor{tag = "icon-floorgrime_gw2"; icon_state = "floorgrime_gw2"},/area/marsstart)
+"cb" = (/turf/simulated/floor{tag = "icon-plating_dusty1"; icon_state = "plating_dusty1"},/area/marsstart)
+"cc" = (/turf/simulated/floor{icon_state = "floorgrime"},/area/marsstart)
+"cd" = (/obj/machinery/vending/medical,/turf/simulated/floor{tag = "icon-greenchecker (NORTH)"; icon_state = "greenchecker"; dir = 1},/area/marsstart)
+"ce" = (/obj/decal/fakeobjects{name = "window"; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; dir = 8; density = 1; layer = 8; anchored = 1},/obj/decal/fakeobjects{name = "window"; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; dir = 4; density = 1; layer = 8; anchored = 1},/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; layer = 8; name = "window"},/obj/grille/steel,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"cf" = (/obj/machinery/door/airlock/classic,/turf/simulated/floor{tag = "icon-greenchecker (NORTH)"; icon_state = "greenchecker"; dir = 1},/area/marsstart)
+"cg" = (/obj/machinery/light/small{tag = "icon-bulb1 (WEST)"; icon_state = "bulb1"; dir = 8},/turf/unsimulated/floor/setpieces/martian,/area)
+"ch" = (/obj/decal/cleanable/oil/streak,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"ci" = (/obj/decal/fakeobjects{anchored = 1; desc = "Some kind of old terminal that also happens to be broken, or something."; icon = 'icons/obj/computer.dmi'; icon_state = "wallterm0"; name = "broken computer"},/turf/simulated/floor{tag = "icon-purplechecker (SOUTHWEST)"; icon_state = "purplechecker"; dir = 10},/area/marsstart)
+"cj" = (/turf/simulated/floor{tag = "icon-purplechecker (SOUTHWEST)"; icon_state = "purplechecker"; dir = 10},/area/marsstart)
+"ck" = (/obj/machinery/light{tag = "icon-tube1 (NORTH)"; icon_state = "tube1"; dir = 1},/turf/simulated/floor{tag = "icon-purplechecker (SOUTHWEST)"; icon_state = "purplechecker"; dir = 10},/area/marsstart)
+"cl" = (/obj/decal/fakeobjects{name = "broken vending machine"; desc = "The goods inside the machine probably expired before you were even born."; icon = 'icons/obj/vending.dmi'; icon_state = "robust-broken"},/turf/simulated/floor{tag = "icon-purplechecker (SOUTHWEST)"; icon_state = "purplechecker"; dir = 10},/area/marsstart)
+"cm" = (/obj/machinery/recharge_station{desc = "A docking station that's practically vintage by today's standards. It seems to be covered in dust, how old!"; name = "Old Docking Station"},/turf/simulated/floor{tag = "icon-purplechecker (SOUTHWEST)"; icon_state = "purplechecker"; dir = 10},/area/marsstart)
+"cn" = (/turf/unsimulated/wall/setpieces/martian{icon_state = "mars-c"},/area)
+"co" = (/obj/decal/cleanable/oil,/turf/simulated/floor{tag = "icon-floorgrime_gw2"; icon_state = "floorgrime_gw2"},/area/marsstart)
+"cp" = (/obj/decal/cleanable/dirt,/turf/simulated/floor{tag = "icon-fullorange"; icon_state = "fullorange"},/area/marsstart)
+"cq" = (/obj/machinery/light/small{dir = 4},/turf/simulated/floor{tag = "icon-plating_dusty1"; icon_state = "plating_dusty1"},/area/marsstart)
+"cr" = (/obj/decal/cleanable/dirt,/turf/simulated/floor{tag = "icon-plating_dusty2"; icon_state = "plating_dusty2"},/area/marsstart)
+"cs" = (/obj/machinery/light/small{tag = "icon-bulb1 (NORTH)"; icon_state = "bulb1"; dir = 1},/turf/unsimulated/floor/setpieces/martian,/area)
+"ct" = (/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "Due to what must be a substantial amount of neglect, this air scrubber seems to be out of working condition."; icon = 'icons/obj/atmospherics/atmos.dmi'; icon_state = "scrubber:0"; name = "Air Scrubber"},/turf/simulated/floor{tag = "icon-fullorange"; icon_state = "fullorange"},/area/marsstart)
+"cu" = (/obj/decal/cleanable/oil/streak,/turf/simulated/floor{tag = "icon-floorgrime-w"; icon_state = "floorgrime-w"},/area/marsstart)
+"cv" = (/obj/machinery/light,/turf/simulated/floor{icon_state = "floorgrime"},/area/marsstart)
+"cw" = (/obj/machinery/light,/turf/unsimulated/wall{icon_state = "mars-reinf"},/area/marsstart)
+"cx" = (/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "This siphon appears to be in a rather poor state of repair."; icon = 'icons/obj/atmospherics/atmos.dmi'; icon_state = "siphon:0"; name = "Air Siphon"},/turf/simulated/floor{tag = "icon-fullorange"; icon_state = "fullorange"},/area/marsstart)
+"cy" = (/obj/machinery/light{dir = 8; icon_state = "tube1"; tag = ""},/turf/simulated/floor{tag = "icon-purplechecker (SOUTHWEST)"; icon_state = "purplechecker"; dir = 10},/area/marsstart)
+"cz" = (/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "A machine, probably one that does science things. WOW SCIENCE."; icon = 'icons/obj/networked.dmi'; icon_state = "generic-p"; name = "strange machine"},/obj/decal/glow{brightness = 3; invisibility = 101; name = "glow - DIM REDDISH"; color_b = 0.3; color_g = 0.3; color_r = 0.4},/turf/simulated/floor{tag = "icon-purplechecker (SOUTHWEST)"; icon_state = "purplechecker"; dir = 10},/area/marsstart)
+"cA" = (/obj/machinery/computer/security/telescreen,/turf/unsimulated/wall{tag = "icon-mars-reg"; icon_state = "mars-reg"},/area/marsstart)
+"cB" = (/obj/decal/fakeobjects{name = "window"; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; dir = 1; density = 1; layer = 8; anchored = 1},/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; layer = 8; name = "window"},/obj/decal/fakeobjects{name = "window"; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; dir = 8; density = 1; layer = 8; anchored = 1},/obj/grille/steel,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"cC" = (/obj/decal/fakeobjects{name = "window"; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; dir = 1; density = 1; layer = 8; anchored = 1},/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; layer = 8; name = "window"},/obj/grille/steel,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"cD" = (/obj/grille/steel/broken,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"cE" = (/obj/decal/fakeobjects{name = "window"; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; dir = 1; density = 1; layer = 8; anchored = 1},/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; layer = 8; name = "window"},/obj/decal/fakeobjects{name = "window"; desc = "It's brown for some strange reason."; icon = 'icons/misc/worlds.dmi'; icon_state = "mars_window"; dir = 4; density = 1; layer = 8; anchored = 1},/obj/grille/steel,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"cF" = (/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "A machine, probably one that does science things. WOW SCIENCE."; icon = 'icons/obj/networked.dmi'; icon_state = "generic-p"; name = "strange machine"},/turf/simulated/floor{tag = "icon-purplechecker (SOUTHWEST)"; icon_state = "purplechecker"; dir = 10},/area/marsstart)
+"cG" = (/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "A ventillation fan, probably used to turn bad air into oxygen or some jizz like that."; icon = 'icons/obj/atmospherics/pipes.dmi'; icon_state = "circ1-broken"; name = "broken atmospheric fan thingy"},/turf/unsimulated/floor/setpieces/martian,/area)
+"cH" = (/obj/table/auto,/obj/machinery/networked/printer{desc = "A fax machine that doesn't appear to be connected to anything."; name = "fax machine"},/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"cI" = (/obj/table/auto,/turf/simulated/floor{tag = "icon-plating_dusty2"; icon_state = "plating_dusty2"},/area/marsstart)
+"cJ" = (/obj/machinery/light{tag = "icon-tube1 (NORTH)"; icon_state = "tube1"; dir = 1},/turf/simulated/floor{tag = "icon-fullred (SOUTHWEST)"; icon_state = "fullred"; dir = 10},/area/marsstart)
+"cK" = (/obj/stool/chair{dir = 1},/turf/simulated/floor{tag = "icon-floorgrime_bw2 (SOUTHWEST)"; icon_state = "floorgrime_bw2"; dir = 10},/area/marsstart)
+"cL" = (/turf/simulated/floor{tag = "icon-floorgrime_bw2 (SOUTHWEST)"; icon_state = "floorgrime_bw2"; dir = 10},/area/marsstart)
+"cM" = (/turf/simulated/floor{tag = "icon-fullorange"; icon_state = "fullorange"},/area/marsstart)
+"cN" = (/obj/machinery/light{tag = "icon-tube1 (NORTH)"; icon_state = "tube1"; dir = 1},/turf/simulated/floor{tag = "icon-fullblue"; icon_state = "fullblue"},/area/marsstart)
+"cO" = (/obj/decal/cleanable/dirt,/turf/simulated/floor{tag = "icon-floorgrime_bw2 (SOUTHWEST)"; icon_state = "floorgrime_bw2"; dir = 10},/area/marsstart)
+"cP" = (/obj/decal/cleanable/dirt,/turf/simulated/floor{tag = "icon-purplechecker (SOUTHWEST)"; icon_state = "purplechecker"; dir = 10},/area/marsstart)
+"cQ" = (/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "A machine, probably one that does science things. WOW SCIENCE."; icon = 'icons/obj/networked.dmi'; icon_state = "generic-p"; name = "strange machine"},/obj/decal/glow{brightness = 4; invisibility = 101; name = "glow - DIM RED"; color_b = 0.3; color_g = 0.3; color_r = 0.42},/turf/simulated/floor{tag = "icon-purplechecker (SOUTHWEST)"; icon_state = "purplechecker"; dir = 10},/area/marsstart)
+"cR" = (/obj/table/auto,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"cS" = (/obj/decal/cleanable/dirt,/turf/simulated/floor{tag = "icon-fullred (SOUTHWEST)"; icon_state = "fullred"; dir = 10},/area/marsstart)
+"cT" = (/turf/simulated/floor{tag = "icon-fullred (SOUTHWEST)"; icon_state = "fullred"; dir = 10},/area/marsstart)
+"cU" = (/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "This computer is incredibly broken.  Look at how broken it is!  Very much so."; icon = 'icons/obj/computer.dmi'; icon_state = "offbroken"; name = "broken computer"},/turf/simulated/floor{tag = "icon-fullred (SOUTHWEST)"; icon_state = "fullred"; dir = 10},/area/marsstart)
+"cV" = (/obj/decal/fakeobjects{name = "broken computer"; desc = "This computer is incredibly broken.  Look at how broken it is!  Very much so."; icon = 'icons/obj/computer.dmi'; icon_state = "dterm0"; density = 1; anchored = 1},/turf/simulated/floor{tag = "icon-fullred (SOUTHWEST)"; icon_state = "fullred"; dir = 10},/area/marsstart)
+"cW" = (/obj/decal/fakeobjects{name = "broken computer"; desc = "This computer is incredibly broken.  Look at how broken it is!  Very much so."; icon = 'icons/obj/computer.dmi'; icon_state = "dterm0"; density = 1; anchored = 1},/turf/simulated/floor{tag = "icon-fullblue"; icon_state = "fullblue"},/area/marsstart)
+"cX" = (/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "This computer is incredibly broken.  Look at how broken it is!  Very much so."; icon = 'icons/obj/computer.dmi'; icon_state = "offbroken"; name = "broken computer"},/turf/simulated/floor{tag = "icon-fullblue"; icon_state = "fullblue"},/area/marsstart)
+"cY" = (/turf/simulated/floor{tag = "icon-fullblue"; icon_state = "fullblue"},/area/marsstart)
+"cZ" = (/obj/machinery/light,/turf/simulated/floor{tag = "icon-purplechecker (SOUTHWEST)"; icon_state = "purplechecker"; dir = 10},/area/marsstart)
+"da" = (/obj/machinery/industrial_laser{desc = "An industrial laser beam emitter. This one looks pretty ancient."; dir = 8; icon_state = "laser-premade"; tag = "icon-laser-premade (WEST)"},/turf/simulated/floor{tag = "icon-purplechecker (SOUTHWEST)"; icon_state = "purplechecker"; dir = 10},/area/marsstart)
+"db" = (/obj/stool/chair{dir = 1},/turf/simulated/floor{tag = "icon-fullred (SOUTHWEST)"; icon_state = "fullred"; dir = 10},/area/marsstart)
+"dc" = (/obj/stool/chair/office/blue{tag = "icon-office_chair_blue (NORTH)"; icon_state = "office_chair_blue"; dir = 1},/turf/simulated/floor{tag = "icon-fullred (SOUTHWEST)"; icon_state = "fullred"; dir = 10},/area/marsstart)
+"dd" = (/obj/decal/fakeobjects{name = "broken computer"; desc = "This computer is incredibly broken.  Look at how broken it is!  Very much so."; icon = 'icons/obj/computer.dmi'; icon_state = "dterm0"; density = 1; anchored = 1},/turf/simulated/floor{tag = "icon-fullorange"; icon_state = "fullorange"},/area/marsstart)
+"de" = (/obj/stool/chair/office/blue{tag = "icon-office_chair_blue (NORTH)"; icon_state = "office_chair_blue"; dir = 1},/turf/simulated/floor{tag = "icon-fullblue"; icon_state = "fullblue"},/area/marsstart)
+"df" = (/obj/stool/chair{dir = 1},/turf/simulated/floor{tag = "icon-fullblue"; icon_state = "fullblue"},/area/marsstart)
+"dg" = (/obj/decal/fakeobjects/firelock_broken{density = 1; desc = "Rust has rendered this airlock useless."; icon = 'icons/obj/doors/doorint.dmi'; icon_state = "door_closed"; name = "rusted airlock"; opacity = 1},/turf/simulated/floor{tag = "icon-floorgrime_bw2"; icon_state = "floorgrime_bw2"},/area/marsstart)
+"dh" = (/obj/stool/chair/office/blue{tag = "icon-office_chair_blue (NORTH)"; icon_state = "office_chair_blue"; dir = 1},/turf/simulated/floor{tag = "icon-fullorange"; icon_state = "fullorange"},/area/marsstart)
+"di" = (/obj/decal/fakeobjects/lighttube_broken{icon_state = "tube-broken"; dir = 8},/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"dj" = (/turf/simulated/floor{tag = "icon-fullyellow"; icon_state = "fullyellow"},/area/marsstart)
+"dk" = (/obj/decal/cleanable/dirt,/obj/machinery/light/small{dir = 4},/turf/simulated/floor{tag = "icon-fullyellow"; icon_state = "fullyellow"},/area/marsstart)
+"dl" = (/obj/machinery/light,/turf/simulated/floor{tag = "icon-fullred (SOUTHWEST)"; icon_state = "fullred"; dir = 10},/area/marsstart)
+"dm" = (/obj/machinery/light,/turf/simulated/floor{tag = "icon-fullblue"; icon_state = "fullblue"},/area/marsstart)
+"dn" = (/obj/plasticflaps,/turf/simulated/floor{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/marsstart)
+"do" = (/obj/machinery/guardbot_dock{autoeject = 2; desc = "A recharging and command station for PR-3 Robuddies. That's like... uh... really gosh darn old. Wow."; name = "really old docking station"},/obj/decal/fakeobjects{anchored = 0; density = 1; desc = "An old robuddy that no longer appears to be functioning."; dir = 2; icon = 'icons/misc/lunar.dmi'; icon_state = "oldbuddy"; layer = 3; name = "very old robuddy"},/turf/simulated/floor{tag = "icon-fullyellow"; icon_state = "fullyellow"},/area/marsstart)
+"dp" = (/obj/machinery/guardbot_dock{autoeject = 2; desc = "A recharging and command station for PR-3 Robuddies. That's like... uh... really gosh darn old. Wow."; name = "really old docking station"},/obj/decal/fakeobjects{anchored = 0; density = 1; desc = "something something something MaRcUstheDAWG"; dir = 2; icon = 'icons/misc/lunar.dmi'; icon_state = "oldbuddy"; layer = 3; name = "very old robuddy"},/turf/simulated/floor{tag = "icon-fullyellow"; icon_state = "fullyellow"},/area/marsstart)
+"dq" = (/obj/lattice{icon_state = "lattice-dir"; dir = 2},/obj/decal/cleanable/dirt/mars,/turf/unsimulated/floor/setpieces/martian,/area)
+"dr" = (/obj/lattice{icon_state = "lattice-dir"; dir = 2},/turf/unsimulated/floor/setpieces/martian,/area)
+"ds" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 1},/obj/decal/cleanable/dirt/mars,/turf/unsimulated/floor/setpieces/martian,/area)
+"dt" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 2},/obj/decal/fakeobjects{name = "solar panel"; desc = "It's probably broken."; icon = 'icons/obj/power.dmi'; icon_state = "solar_panel-b"},/turf/unsimulated/floor/setpieces/martian,/area)
+"du" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 2},/obj/decal/fakeobjects{name = "solar panel"; desc = "It's probably broken."; icon = 'icons/obj/power.dmi'; icon_state = "solar_panel"; dir = 10},/obj/decal/cleanable/dirt/mars,/turf/unsimulated/floor/setpieces/martian,/area)
+"dv" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 6},/obj/decal/cleanable/dirt/mars,/turf/unsimulated/floor/setpieces/martian,/area)
+"dw" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 5},/obj/decal/cleanable/dirt/mars,/turf/unsimulated/floor/setpieces/martian,/area)
+"dx" = (/obj/lattice{icon_state = "lattice-dir"; dir = 6},/turf/unsimulated/floor/setpieces/martian,/area)
+"dy" = (/obj/lattice{icon_state = "lattice-dir"; dir = 8},/turf/unsimulated/floor/setpieces/martian,/area)
+"dz" = (/obj/lattice,/turf/unsimulated/floor/setpieces/martian,/area)
+"dA" = (/obj/lattice,/obj/decal/cleanable/dirt/mars,/turf/unsimulated/floor/setpieces/martian,/area)
+"dB" = (/obj/lattice{icon_state = "lattice-dir"; dir = 1},/turf/unsimulated/floor/setpieces/martian,/area)
+"dC" = (/obj/lattice{icon_state = "lattice-dir"; dir = 2},/obj/decal/fakeobjects{name = "solar panel"; desc = "It's probably broken."; icon = 'icons/obj/power.dmi'; icon_state = "solar_panel-b"},/turf/unsimulated/floor/setpieces/martian,/area)
+"dD" = (/obj/lattice{icon_state = "lattice-dir"; dir = 2},/obj/decal/fakeobjects{tag = "icon-solar_panel (NORTHWEST)"; name = "solar panel"; desc = "It's probably broken."; icon = 'icons/obj/power.dmi'; icon_state = "solar_panel"; dir = 9},/turf/unsimulated/floor/setpieces/martian,/area)
+"dE" = (/obj/lattice{icon_state = "lattice-dir"; dir = 2},/obj/decal/fakeobjects{name = "solar panel"; desc = "It's probably broken."; icon = 'icons/obj/power.dmi'; icon_state = "solar_panel"; dir = 10},/turf/unsimulated/floor/setpieces/martian,/area)
+"dF" = (/obj/decal/fakeobjects{anchored = 1; density = 1; desc = "This rover has aged horribly."; icon = 'icons/misc/worlds.dmi'; icon_state = "broken_rover"; name = "broken rover"},/turf/unsimulated/floor/setpieces/martian,/area)
+"dG" = (/obj/lattice{icon_state = "lattice-dir"; dir = 10},/turf/unsimulated/floor/setpieces/martian,/area)
+"dH" = (/obj/lattice{icon_state = "lattice-dir"; dir = 10},/obj/decal/cleanable/dirt/mars,/turf/unsimulated/floor/setpieces/martian,/area)
+"dI" = (/obj/lattice{dir = 1; icon_state = "lattice-dir-b"},/turf/unsimulated/floor/setpieces/martian,/area)
+"dJ" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 1},/obj/decal/fakeobjects{tag = "icon-solar_panel (EAST)"; name = "solar panel"; desc = "It's probably broken."; icon = 'icons/obj/power.dmi'; icon_state = "solar_panel"; dir = 4},/turf/unsimulated/floor/setpieces/martian,/area)
+"dK" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 1},/obj/decal/fakeobjects{tag = "icon-solar_panel (NORTH)"; name = "solar panel"; desc = "It's probably broken."; icon = 'icons/obj/power.dmi'; icon_state = "solar_panel"; dir = 1},/turf/unsimulated/floor/setpieces/martian,/area)
+"dL" = (/turf/unsimulated/wall/setpieces/martian{icon_state = "mars-c"; dir = 10},/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacadadadadadadadadadadadadadadadadadadadaeabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagagagagagagagagagagahahahahahagagafabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababafagagagagagagagagagagagagahahaiahahagajafabababababababababababababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacakagagagagagagagagagagagagahahahahahagaladadacacacacacacacacacacacacacacacadadadadacacacacacacacacacacacacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagagagagamagagagagagagahahaiahahagagagaganacacacacacacacadadadadadadakagagagaganacacacacacacacacacacacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagagagagagagagagagaoagahahahahahagagagagalacacacacacacakagagagagagagagagagagagaladacacacacacacacadadacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagapagagagaqarasagagagagahahaiahahagagagagagagagatagauatagauagagagagagavavavagagagagaladadadadadakagaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagapapagagagagagagagagahahahahahagagagagagagawawaxaxaxaxawawagagagayapapapayagagagagagagagagagagagaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagapapazazagapagagagagagahahaiahahagagagagagagawaAaBaCaCaDaEawawaxawawaFaFaFawawaxawawagagagagagaGaHaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagaIapapaJazaIagagagagahahahahahagagagagagagaxaBaKaLaLaKaDawaMaMaNaMaMaMaMaMaNaOaPawagagagagagaQasaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagaIaRaRaSazaIaTaUagagahahaiahahagagagagagagaxaBaKaLaLaKaBaxaMaVaWaXaXaWaXaYaMaMaMaxauagagagagaZagaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagaRaRaIaIaSaIaIaIagagagahahahahahagagagagagagaxaBaKaLaLaKaBaxbaaXaYaXaXbbaXbcbababaawbdagagagagagagaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagbeaRbfbfbgbhbiazapapagahahaiahahagagagagagagaxbjaLaLaLaLbkawbaaXaXaXaXaXaXbbbaawawawblagagagagagagaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagaIamasbfasasasasasaRagagahahahahahagagagagagagawbjbmaBaBbmbjawawaxaxaxbnaxaxaxaxawboawagagagagagagagaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababafagaIazazasasasasasbpaIagagahahaiahahagagbqagagawawawaxaxbraxawawbsbtbubvaMaMaMaMaMawawawaxawawbwapagbxaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacakagaIazbyaRapbzaRasbiaIagagahahahahahagagagagbAawbBaNbCaMaMaMaNaMaMbvbvbvaMaMaMaMaMbDbEaLaLbFbGagagagagaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagaQaIazaRapaRamaRbHazaIbIagahahaiahahagagagagagbGaMbvaMbJbJbKbKbKbLbMaMaMbNaMbOawawaxbEaLaLbPbQagagagagaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagbRaIagagagasbebebeaIaIbSagahahahahahagagagagagbQaMbvaMbJbJbJbJbJbJbJaMaMaMaMbTawbUbUbEaLaLbVbQagagagagajacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagagagagaRagamapagagagagahahaiahahagagagagagbQaMaMaMbKbWbWbWbWbWbJaMaMaMaMbTbnbXaLbXaLaLbYbQagagajbZacababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagaqagagagagagaragagagagahahahahahagagagagagbQaMbvaMcabJbJbJbJbJbJaMcbccccbTaxaLbXcbaLaLcdceagajacabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacaeagagagaqagagagaraqaqagagagahahaiahahagagagagagceaMaMaMbKbWbWbWbWbWbJaMaMccawawaxaxaxaxaxcfawawcganababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababafagagagagagagagagagaqagagagahahahahahagagagagbAawaMchaMbJbJbJbJbJbJbJawawawawcicjckcjclcjcjcmawaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaccnagagagagaoagagagagagagagahahaiahahagagagagagawawaMaMbkbJbJbJcobJbJbncpcqawcjaLaLaLaLaLcraLaxaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababafagagagagagagagagagagagagahahahahahagagagagagcsbGaMccaMaMaMbNaMaMaMaxctcpaxcjaLbXcuaLaLaLaLaxaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagagagagagagagagagagahahaiahahagagagagagaycecccvcccccccccccccccwcxcpawcyaLaLcjcjcjcjczaxaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagagagagagagagagagagahahahahahagagagagagawawaxaxcAcBcCcDcCcEcAawawawawcjaLaLcjcjcjcjcFaxaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagagagagagagagagagagahahaiahahagagagagcGawcHcIcJcKcLcLcMcLcLcKcNcOaMawcjaLaLcjcPcjcjcQaxaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagagagagagagagagagagahahahahahagagagagcGawcRcLcScTcUcVcMcWcXcYcYcLaMaxaLaLaLcPcjcZcjdaawaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababafagagagagagagagagagagagagahahaiahahagagagagcGawcRcLcTcTdbdcdddedfcYcYcLaMdgaMaMawawaxawawawawaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababacakagagagagagagagagagagagagahahahahahagagagagagawaMcLcTcTcScTdhcYcYbkcYcLaMaxdiaMawbNdjdkawbIagaganabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacadakagagagagagagagagagagagagagahahaiahahagagagagagawaMcLdlcLbNcMcMcMcOcLdmcLaMawaMbvdndododpawdqagagaladacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagagagagagagagagagagagagagahahahahahagagagaQaTawawaxaxcBcCcCcCcEaxaxaxaxawawawaxawawaxawawbSagagagaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagagagagagagagagagagagagagahahaiahahagagagdragagagagcsagagagagagcsagblagagagdsagdragblagagagagagagaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaccnagagagagagagagagagagagagagagahahahahahagdtagdragagagagagduagagagagagagagagagagagdvdwagagagagagagagagaganababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababafagagagagagagagagagagagagagagahahaiahahagdxdydzdydAdydzdydBagagagagagagagagagagagdragagagagagagagagagagalacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagagagagagagagagagagagagahahahahahagdrdCdrdDdrdEdrdDdqagagagagdFagagagagagagapagagagagagagagagagagaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagagagagagagagagagagagagahahaiahahagdxdGdHdGdGdGdGdGdBagagagagagagagagaoagagdIagagagagagagagagagagaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabafagagagagagagagagagagagagagagahahahahahagdJagagagagagagagdKagagagagagagagagagagagagagagagagagagagagagagaganabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacbZbZbZbZbZbZbZbZbZbZbZbZbZaeahahaiahahagagagajbZbZaeagagagagagagajbZbZbZaeagagagagagagagagagagagagagagdLacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababacbZbZbZbZbZbZbZbZacacacacbZbZbZbZbZbZacacacacacbZbZbZbZbZbZbZbZbZbZbZbZbZbZacacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
