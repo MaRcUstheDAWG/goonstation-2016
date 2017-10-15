@@ -200,6 +200,21 @@
 		product_list += new/datum/data/vending_product("/obj/machinery/bot/guardbot", 70, cost=100)
 		
 		product_list += new/datum/data/vending_product("/obj/critter/moonspy", rand(5, 6), hidden=1)
+		
+/obj/machinery/vending/clown
+	name = "Clown-O-Mat"
+	desc = "A vending machine... for <i>clowns?</i> Who thought this was a good idea?!"
+	pay = 1
+	vend_delay = 2
+	icon_state = "clown"
+	icon_panel = "generic-panel"
+	slogan_list = list("HONK!",
+	"Everyone wants some clown in their life!",)
+      
+	create_products()
+		..()
+		product_list += new/datum/data/vending_product("/obj/item/reagent_containers/food/snacks/plant/banana", 45, cost=1)
+		product_list += new/datum/data/vending_product("/obj/item/reagent_containers/food/snacks/pie/custard",  50, cost=6)
   
 /obj/machinery/vending/medical
 	name = "NanoMed Plus"
